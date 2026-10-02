@@ -19,12 +19,21 @@ This portfolio highlights hands-on AWS projects demonstrating cloud architecture
 - Amazon VPC - Networking, subnets, routing
 - Amazon Route 53 Health Checks - Regional availability monitoring
 
+### Monitoring & Alerting
+
+  Designed an AWS environment that monitor, detects, trigger alerts, and support incidents using multiple AWS services.
+
+#### Technologies Used:
+- Amazon CloudWatch Metrics - Monitor infrastructure and app health
+- Amazon CloudWatch Logs - Logs for troubleshooting
+- Amazon CloudWatch Alarms - Detect failures and irregular behavior
+- Amazon SNS - Send incident alerts
+- Amazon IAM - Secure permissions
+  
   ---
 
 ##### 🚧 Projects In Progress
 - Automated Onboarding System
-- Monitoring & Alerting
 - Website Uptime Monitor
-- Automated Backup System
 - Customer Inquiry Manager
 - AI Inventory Tracker
