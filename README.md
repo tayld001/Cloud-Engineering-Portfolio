@@ -29,7 +29,20 @@ This portfolio highlights hands-on AWS projects demonstrating cloud architecture
 - Amazon CloudWatch Alarms - Detect failures and irregular behavior
 - Amazon SNS - Send incident alerts
 - Amazon IAM - Secure permissions
-  
+
+ ###  BlueGreen Infrastructure
+
+   Implemented a rapid and high availability infrastructure on AWS.
+
+#### Technologies Used:
+- Amazon EC2 - Instances running the application
+- Launch Templates - Version-controlled configuration
+- Amazon EC2 Auto Scaling - Blue & Green ASGs and Instance Refresh
+- Application Load Balancer - Traffic distribution and routing
+- Target Groups - Blue and Green routing destinations
+- Amazon IAM - Instance roles and permissions
+- Amazon VPC, Subnets, Security Groups - Networking and access control
+
   ---
 
 ##### 🚧 Projects In Progress
